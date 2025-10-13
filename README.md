@@ -1,17 +1,6 @@
-<img src="https://path-to-your/banner-image.png" alt="Banner Image">
-
 ## About Me
 
 I'm a passionate **DAW (Web Application Development)** student with a strong interest in building robust and scalable applications. My focus is on **backend development**, but I enjoy working across the full stack to bring ideas to life. I love solving complex problems and I'm always eager to learn new technologies and improve my skills.
-
----
-
-## My GitHub Stats 📊
-
-These stats automatically update and showcase my coding activity and language preferences.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marbobe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marbobe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -28,8 +17,17 @@ Here are the technologies I've been working with recently:
 
 ---
 
-## Currently Learning 🌱
+## Currently Learning 
 
 I'm always looking to expand my skill set. Right now, I'm focused on:
 -   Deepening my knowledge of front-end development with **React**.
 -   Exploring advanced backend concepts and design patterns.
+
+## My GitHub Stats 📊
+
+These stats automatically update and showcase my coding activity and language preferences.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marbobe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marbobe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
