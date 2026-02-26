@@ -19,14 +19,14 @@ I'm a passionate **DAW (Web Application Development)** student with a strong int
 ## Currently Learning 
 
 I'm always looking to expand my skill set. Right now, I'm focused on:
--   Deepening my knowledge of front-end development with **React**.
+-   Deepening my knowledge of front-end development with **React** and **NextJS**.
 -   Exploring advanced backend concepts and design patterns.
 
-## My GitHub Stats 📊
+<!--## My GitHub Stats 📊-->
 
-These stats automatically update and showcase my coding activity and language preferences.
+<!--These stats automatically update and showcase my coding activity and language preferences.-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marbobe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marbobe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marbobe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marbobe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
