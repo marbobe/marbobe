@@ -30,7 +30,7 @@ https://marbou.vercel.app/
 
 ---
 
-## Currently Learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="30"/> <img src="https://cdn.simpleicons.org/next.js/181717" height="30"/> <img src="https://cdn.simpleicons.org/textpattern/181717" height="30"/>
+## Currently Learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="25"/> <img src="https://cdn.simpleicons.org/next.js/181717" height="25"/>
 
 
 I'm always looking to expand my skill set. Right now, I'm focused on:
