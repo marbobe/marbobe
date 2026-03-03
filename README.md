@@ -30,11 +30,11 @@ https://marbou.vercel.app/
 
 ---
 
-## Currently Learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="25"/> <img src="https://cdn.simpleicons.org/next.js/181717" height="25"/>
+## Currently Learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="25"/> <img src="https://cdn.simpleicons.org/next.js/181717" height="25"/> <img src="https://cdn.simpleicons.org/typescript/2496ED" height="25"/> 
 
 
 I'm always looking to expand my skill set. Right now, I'm focused on:
--   Deepening my knowledge of front-end development with **React** and **NextJS**.
+-   Deepening my knowledge of front-end development with **React**, **NextJS** and **TypeScript**.
 -   Exploring advanced backend concepts and design patterns.
 
 <!--## My GitHub Stats 📊-->
