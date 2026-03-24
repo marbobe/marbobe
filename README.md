@@ -30,11 +30,11 @@ https://marbou.vercel.app/
 
 ---
 
-## Currently Learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="25"/> <img src="https://cdn.simpleicons.org/angular/FF2D20" height="25"/> <img src="https://cdn.simpleicons.org/typescript/2496ED" height="25"/> 
+## Currently Learning <img src="https://cdn.simpleicons.org/angular/FF2D20" height="25"/> <img src="https://cdn.simpleicons.org/typescript/2496ED" height="25"/> 
 <!--  <img src="https://cdn.simpleicons.org/next.js/181717" height="25"/> -->
 
 I'm always looking to expand my skill set. Right now, I'm focused on deepening my knowledge of front-end development with:
-- **React**, **Angular** and **TypeScript**.
+- **Angular** and **TypeScript**.
 
 
 <!--## My GitHub Stats 📊-->
