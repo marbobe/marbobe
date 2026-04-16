@@ -9,14 +9,18 @@ https://marbou.vercel.app/
 
 ## Tech Arsenal
 
-| <!-- --> | <!--  --> | 
-|:--:|:--:|
-| **Backend** | <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/> <img src="https://cdn.simpleicons.org/express/000000" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="40"/> <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40"/>  <img src="https://cdn.simpleicons.org/php/777BB4" height="40"/> <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/>  |
+- **Backend**     <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25"/> <img src="https://cdn.simpleicons.org/express/000000" height="25"/> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="25"/> <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="25"/>  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="25"/>  
+- **Frontend**     <img src="https://cdn.simpleicons.org/html5/E34F26" height="25"/> <img src="https://cdn.simpleicons.org/css/2496ED" height="25"/>  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25"/>  <img src="https://cdn.simpleicons.org/react/61DAFB" height="25"/> <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="25"/> <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="25"/> 
+- **Databases & Persistence**     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="25"/> <img src="https://cdn.simpleicons.org/hibernate/59666C" height="25"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="25"/> <img src="https://cdn.simpleicons.org/mongoose/880000" height="25"/> 
+- **Tools & DevOps**      <img src="https://cdn.simpleicons.org/docker/2496ED" height="25"/> <img src="https://cdn.simpleicons.org/git/F05032" height="25"/> <img src="https://cdn.simpleicons.org/github/181717" height="25"/>  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="25"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" height="25"/> <img src="https://cdn.simpleicons.org/linux/181717" height="25"/> 
+
+
+<!--|:--:|:--:|-->
+<!--| **Backend** | <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/> <img src="https://cdn.simpleicons.org/express/000000" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="40"/> <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40"/>  <img src="https://cdn.simpleicons.org/php/777BB4" height="40"/> <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/>  |
 | **Frontend** | <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/> <img src="https://cdn.simpleicons.org/css/2496ED" height="40"/>  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/> <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="40"/> <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40"/> |
 | **Databases & Persistence** | <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/> <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40"/> <img src="https://cdn.simpleicons.org/mongoose/880000" height="40"/> |
 | **Tools & DevOps** |  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/> <img src="https://cdn.simpleicons.org/git/F05032" height="40"/> <img src="https://cdn.simpleicons.org/github/181717" height="40"/>  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/> <img src="https://cdn.simpleicons.org/linux/181717" height="40"/> |
-| **Concepts** | RESTful APIs, MVC, Clean Architecture, Unit testing |
-
+| **Concepts** | RESTful APIs, MVC, Clean Architecture, Unit testing |-->
 
 <!--## My Tech Stack 💻
 
